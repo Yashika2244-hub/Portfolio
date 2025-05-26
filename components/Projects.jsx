@@ -23,7 +23,7 @@ export default function ProjectsSection() {
     },
     {
       title: "E-commerce Sales Optimization and Analysis",
-      description: "A command-line AI assistant powered by Mistral-7B-Instruct via Hugging Face. This tool intelligently interprets user goals and generates optimized shell commands. It avoids redundant installs, filters unsafe suggestions, and supports direct execution with user confirmation. Designed to enhance productivity for developers working in terminal environments.",
+      description: "Built a full-stack E-Commerce Sales Analysis project using Excel, MySQL & Power BI, uncovering $23M+ revenue insights and improving reporting efficiency by 30%",
       techStack: ["Power BI", "My SQL", "Excel", "ETL"],
       liveLink: "https://1drv.ms/v/c/825398443c910690/EWdwciGWlKlCg30F2p4RVEIB4hYZuHiPKuQfETfnRfhxeQ?e=50LNBV",
       githubLink: "https://github.com/Yashika2244-hub/Ecommerce-Sales-Analysis",
@@ -31,21 +31,21 @@ export default function ProjectsSection() {
     },
     {
       title: "Coffee Shop Sales Analysis",
-      description: "A sleek and minimal password generator web app that lets users create strong, secure passwords tailored to their needs. Built with React and Tailwind CSS, it offers options to include uppercase, lowercase, numbers, and symbols, along with a slider to control password length. User-friendly and responsive UI, deployed on Vercel.",
+      description: "Analyzed sales data for a coffee shop using MySQL for data cleaning and SQL queries, and built an interactive Power BI dashboard. Key insights included weekday vs weekend sales, top-performing products, store-wise revenue, and hourly sales trends. Highlighted $166K in total sales for June 2023 with a 6% MoM increase.",
       techStack: ["MYSQL", "Power BI"],
       githubLink: "https://github.com/Yashika2244-hub/Coffee-Shop-Sales-Project",
       image: "/project4.jpeg" 
     },
     {
       title: "Bank Loan Report Analysis",
-      description: "A modern and responsive Spotify-inspired music player UI built with Next.js and Tailwind CSS. It mimics core Spotify features like sidebar navigation, album artwork, and playlist layout with a sleek dark theme. Deployed seamlessly with Vercel.",
+      description: "Analyzed loan data using MySQL and visualized insights in Power BI. Tracked 38.6K applications, $435.8M funded, and $473.1M received. Dashboard includes KPIs, good vs bad loan breakdown, loan trends by state, term, purpose, and borrower profile for data-driven decisions.",
       techStack: ["Power BI", "My SQL"],
       githubLink: "https://github.com/Yashika2244-hub/Bank-Loan-Report-Project",
       image: "/project5.avif"
     },
     {
       title: "Sentiment Analysis",
-      description: "A modern and responsive Spotify-inspired music player UI built with Next.js and Tailwind CSS. It mimics core Spotify features like sidebar navigation, album artwork, and playlist layout with a sleek dark theme. Deployed seamlessly with Vercel.",
+      description: "💬 Sentiment Analysis | Python, TextBlob, WordCloudBuilt a sentiment analysis tool using Python to classify text into positive and negative sentiments. Used TextBlob for polarity scoring, visualized frequent words with WordCloud, and analyzed emoji patterns to uncover emotional tone in user-generated text.",
       techStack: ["Python(Textblob, Wordcloud, Emoji)"],
       githubLink: "https://github.com/Yashika2244-hub/Sentiment-Analysis-Python-",
       image: "/project6.jpg"
