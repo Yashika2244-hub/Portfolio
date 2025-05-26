@@ -45,7 +45,7 @@ export default function ProjectsSection() {
     },
     {
       title: "Sentiment Analysis",
-      description: "💬 Sentiment Analysis | Python, TextBlob, WordCloudBuilt a sentiment analysis tool using Python to classify text into positive and negative sentiments. Used TextBlob for polarity scoring, visualized frequent words with WordCloud, and analyzed emoji patterns to uncover emotional tone in user-generated text.",
+      description: "Sentiment Analysis | Python, TextBlob, WordCloudBuilt a sentiment analysis tool using Python to classify text into positive and negative sentiments. Used TextBlob for polarity scoring, visualized frequent words with WordCloud, and analyzed emoji patterns to uncover emotional tone in user-generated text.",
       techStack: ["Python(Textblob, Wordcloud, Emoji)"],
       githubLink: "https://github.com/Yashika2244-hub/Sentiment-Analysis-Python-",
       image: "/project6.jpg"
