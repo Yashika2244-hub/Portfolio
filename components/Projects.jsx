@@ -79,7 +79,7 @@ export default function ProjectsSection() {
           My Projects
         </h2>
         <p className="text-md sm:text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-8 leading-relaxed">
-          Here are a few projects I’ve worked on, blending creativity with modern web technologies.
+          Here are a few industry-level data analytics projects I’ve worked on, combining business insight with powerful analytical tools and technologies.
         </p>
 
         <div className="relative group p-3">
